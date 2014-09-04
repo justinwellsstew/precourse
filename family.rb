@@ -1,3 +1,4 @@
+# this creates an array of immediate family members. 
 family = {  uncles: ["bob", "joe", "steve"],
             sisters: ["jane", "jill", "beth"],
             brothers: ["frank","rob","david"],
