@@ -1,10 +1,10 @@
 animal = {species: 'deer', color: 'brown', height: '6m'}
 
-animal.each do |key, value|
+animal.each_key do |key|
   puts "#{key}"
 end  
 
-animal.each do |key, value|
+animal.each_value do |value|
   puts "#{value}"
 end  
 
